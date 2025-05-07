@@ -19,7 +19,7 @@ To architect a unified, secure digital future for African commerce and innovatio
 ### 📂 Featured Projects
 - **Afritrade by Aptra** – Unified Pan-African eCommerce platform with digital currency and logistics integration.
 - **Zubaya by Aptra** – Blockchain-verified cross-border trade ecosystem.
-- **Tech Oasis Skool** – An online tech skills academy for young African talents.
+- **Tech Oasis School** – An online tech skills academy for young African talents.
 
 ---
 
